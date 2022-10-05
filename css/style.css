@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background: #a6a4a4;
+    padding: 50px;
+}
+
+.row {
+    /* margin: 2rem; */
+    padding: 0 5rem;
+}
+
+
+.header-text {
+    text-align: center;
+    background-color: gray;
+    margin: 0;
+    padding: 10px;
+}
